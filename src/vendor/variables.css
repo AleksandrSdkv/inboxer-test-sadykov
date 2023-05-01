@@ -1,0 +1,15 @@
+:root {
+  --color-black-0: #131316;
+  --color-white-1: #FFFFFF;
+
+  --font-segoeRegular-family: SegoeUI;
+  --font-SegoeUIBold-family: SegoeUIBold;
+
+
+  --font-body-1-size: 32px;
+  --font-body-2-size: 16px;
+
+  --font-body-1-height: 42.56px;
+  --font-body-2-height: 21px;
+
+}

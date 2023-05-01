@@ -1,0 +1,33 @@
+@font-face {
+  font-family: "SegoeUIBold";
+  src: url("../vendor/fonts/SegoeUI/SegoeUIBold.woff2") format("woff2"),
+    url("../vendor/fonts/SegoeUI/SegoeUIBold.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "SegoeUI";
+  src:
+  url("../vendor/fonts/SegoeUI/SegoeUI.ttf") format("ttf"),
+  url("../vendor/fonts/SegoeUI/SegoeUI.woff2") format("woff2"),
+    url("../vendor/fonts/SegoeUI/SegoeUI.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* @font-face {
+  font-family: "Montserrat-Medium";
+  src: url("../vendor/fonts/Montserrat/Montserrat-Medium.ttf") format("ttf"),
+    url("../vendor/fonts/Montserrat/Montserrat-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+    font-family: 'MontserratRegular';
+    src: url('../vendor/fonts/Montserrat/Montserrat-Regular.ttf') format('ttf'),
+         url('../vendor/fonts/Montserrat/Montserrat-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+} */

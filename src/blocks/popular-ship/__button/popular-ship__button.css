@@ -1,0 +1,20 @@
+.popular-ship__button{
+  width: 280px;
+height: 60px;
+color: var(--color-white-1);
+font-size: 16px;
+line-height: 21px;
+border: none;
+border-radius: 4px;
+background: linear-gradient(87.23deg, rgba(128, 26, 179, 0) -91.42%, #4C4CFF 99.79%);
+border-radius: 4px;
+}
+@media screen and (max-width: 645px){
+  .popular-ship__button{
+   margin-left: 10px;
+   width: 240px;
+   height: 40px;
+  }}
+  .popular-ship__button:hover{
+    border: #5555f3 3px solid;
+  }

@@ -1,0 +1,22 @@
+.popular-ship__promo{
+  border: 1px dashed #131316;
+  border-radius: 4px;
+  width: 280px;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 21px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  text-align: center;
+  margin: 0;
+ place-self: center;
+ padding: 22px 0 16px 0;
+}
+
+  @media screen and (max-width: 645px){
+    .popular-ship__promo{
+     margin-left: 10px;
+     width: 240px;
+     padding: 6px 0 7px 0;
+    }
+  }

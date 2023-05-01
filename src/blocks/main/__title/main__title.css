@@ -1,0 +1,10 @@
+.main__title{
+margin: 0;
+padding: 0;
+color: var(--color-white-1);
+font-size: var(--font-body-1-size);
+line-height: var(--font-body-1-height);
+font-weight: 400;
+width: 100%;
+text-align: center;
+}

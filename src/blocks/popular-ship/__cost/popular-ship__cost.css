@@ -1,0 +1,10 @@
+.popular-ship__cost{
+  font-weight: 400;
+ font-size: 13px;
+ line-height: 17px;
+ color: #131316;
+}
+.popular-ship__cost:last-child{
+ color: #FF0000;
+ font-weight: 700;
+}

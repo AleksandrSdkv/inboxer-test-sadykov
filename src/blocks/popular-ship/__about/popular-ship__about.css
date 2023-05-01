@@ -1,0 +1,12 @@
+.popular-ship__about{
+  font-weight: 400;
+font-size: 13px;
+line-height: 17px;
+margin: 0;
+}
+
+@media screen and (max-width: 450px) {
+  .popular-ship__about{
+    width: 205px;
+}
+  }

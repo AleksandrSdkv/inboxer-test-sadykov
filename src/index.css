@@ -1,0 +1,61 @@
+@import url(./pages/pages.css);
+@import url("./vendor/variables.css");
+@import url("./vendor/normalize.css");
+@import url("./vendor/fonts.css");
+
+@import url("./blocks/background-img/background.css");
+
+@import url("./blocks/header/header.css");
+@import url("./blocks/header/__logo/header__logo.css");
+@import url("./blocks/header/__cabinet/header__cabinet.css");
+
+@import url("./blocks/main/main.css");
+@import url("./blocks/main/__title/main__title.css");
+@import url("./blocks/main/__card-list/main__card-list.css");
+
+@import url("./blocks/card/card.css");
+@import url("./blocks/card/__about/card__about.css");
+@import url("./blocks/card/__group-price/card__group-price.css");
+@import url("./blocks/card/__img/card__img.css");
+@import url("./blocks/card/__img/_l/card__img_l.css");
+@import url("./blocks/card/__price/card__price.css");
+@import url("./blocks/card/__sale/card__sale.css");
+@import url("./blocks/card/__button/card__button.css");
+
+@import url("./blocks/popular-ship/popular-ship.css");
+@import url("./blocks/popular-ship/__about/popular-ship__about.css");
+@import url("./blocks/popular-ship/__button/popular-ship__button.css");
+@import url("./blocks/popular-ship/__button-group/popular-ship__button-group.css");
+@import url("./blocks/popular-ship/__cost/popular-ship__cost.css");
+@import url("./blocks/popular-ship/__costs/popular-ship__costs.css");
+@import url("./blocks/popular-ship/__description/popular-ship__description.css");
+@import url("./blocks/popular-ship/__description-group/popular-ship__description-group.css");
+@import url("./blocks/popular-ship/__img/popular-ship__img.css");
+@import url("./blocks/popular-ship/__price/popular-ship__price.css");
+@import url("./blocks/popular-ship/__price_group/popular-ship__price_group.css");
+@import url("./blocks/popular-ship/__price_sale/popular-ship__price_sale.css");
+@import url("./blocks/popular-ship/__price-group/popular-ship__price-group.css");
+@import url("./blocks/popular-ship/__price-name/popular-ship__price-name.css");
+@import url("./blocks/popular-ship/__price-names/popular-ship__price-names.css");
+@import url("./blocks/popular-ship/__prise-last/popular-ship__prise-last.css");
+@import url("./blocks/popular-ship/__promo/popular-ship__promo.css");
+@import url("./blocks/popular-ship/__section/popular-ship__section.css");
+@import url("./blocks/popular-ship/__ship/popular-ship__ship.css");
+@import url("./blocks/popular-ship/__ships/popular-ship__ships.css");
+@import url("./blocks/popular-ship/__title/popular-ship__title.css");
+
+
+@import url("./blocks/footer/footer.css");
+@import url("./blocks/footer/__contacts/footer__contacts.css");
+@import url("./blocks/footer/__contacts-group/footer__contacts-group.css");
+@import url("./blocks/footer/__contacts-item/footer__contacts-item.css");
+@import url("./blocks/footer/__socials/footer__socials.css");
+@import url("./blocks/footer/__socials/_fb/footer__socials_fb.css");
+@import url("./blocks/footer/__socials/_inst/footer__socials_inst.css");
+@import url("./blocks/footer/__socials/_yt/footer__socials_yt.css");
+@import url("./blocks/footer/__title/footer__title.css");
+@import url("./blocks/footer/__contacts-link/footer__contacts-link.css");
+@import url("./blocks/footer/__contacts-contact/footer__contacts-contact.css");
+
+
+

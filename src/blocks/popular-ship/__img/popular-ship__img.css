@@ -1,0 +1,29 @@
+.popular-ship__img{
+  width: 436px;
+  height: 218px;
+  margin-right: 290px;
+}
+
+@media screen and (max-width: 740px) {
+
+    .popular-ship__img {
+      width: 308px;
+      height: 190px;
+      margin-right: 230px;
+
+}
+  }
+@media screen and (max-width: 571px) {
+   .popular-ship__img {
+     width: 334px;
+     height: 189px;
+     margin-right: 59px;
+}
+ }
+ @media screen and (max-width: 420px) {
+  .popular-ship__img {
+    width: 271px;
+    height: 163px;
+    margin-right: 5px;
+}
+}

@@ -1,0 +1,36 @@
+.popular-ship__section{
+  margin: 24px 0 0 0;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  width: 620px;
+  height: 470px;
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: 4px;
+}
+@media screen and (max-width: 645px) {
+  .popular-ship__section {
+    flex-direction: row;
+    width: 620px;
+    height: 470px;
+    flex-wrap: wrap;
+    width: 553px;
+    margin: auto;
+  }
+  }
+  @media screen and (max-width: 571px) {
+    .popular-ship__section {
+      flex-direction: row;
+      justify-content: center;
+      height: 100%;
+      width: 469px;
+      gap: 20px;
+    }
+    }
+    @media screen and (max-width: 480px){
+    .popular-ship__section {
+        height: 100%;
+        width: 100%;
+    }}

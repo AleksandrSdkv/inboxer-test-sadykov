@@ -1,0 +1,27 @@
+.header__cabinet{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width:  180px;
+  height: 40px;
+  background: linear-gradient(87.23deg, rgba(128, 26, 179, 0) -91.42%, #4C4CFF 99.79%);
+  border-radius: 4px;
+   color: var(--color-white-1);
+  font-size: var( --font-body-2-size);
+  line-height: var(--font-body-2-height);
+  font-weight: 400;
+  text-transform: uppercase;
+  cursor: pointer;
+  box-sizing: border-box;
+}
+
+.header__cabinet:hover{
+  border: #5555f3 2px solid;
+}
+@media screen and (max-width: 525px) {
+  .header__cabinet{
+    width:  150px;
+    font-size: 13px;
+  }
+}
+

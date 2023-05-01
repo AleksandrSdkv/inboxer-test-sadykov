@@ -1,0 +1,11 @@
+.footer__socials_inst{
+  width: 68px;
+height: 68px;
+background-image: url(../../../../../image/inst.png);
+background-repeat: no-repeat;
+
+}
+.footer__socials_inst:hover{
+  transform: scale(1.15);
+  transition: transform 0.4s ease;
+}

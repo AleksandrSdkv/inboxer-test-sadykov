@@ -1,0 +1,11 @@
+.popular-ship__description{
+  position: absolute;
+  left: 315px;
+  margin-right: 50px;
+  }
+  @media screen and (max-width: 571px) {
+    .popular-ship__description {
+     position: inherit;
+     margin: 0;
+  }
+    }

@@ -1,0 +1,13 @@
+.popular-ship__price_sale{
+  text-align: center;
+  margin: 0;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 21px;
+  width: 60px;
+  height: 24px;
+  background: #FF0000;
+  border-radius: 4px;
+  color: #FFFFFF;
+  margin-left: 15px;
+  }

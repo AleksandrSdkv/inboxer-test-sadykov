@@ -1,0 +1,6 @@
+.popular-ship__ship{
+  width: 28px;
+  height: 28px;
+  background-image: url(../../../../image/spaceship.png);
+  display: flex;
+}

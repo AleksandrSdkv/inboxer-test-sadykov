@@ -1,0 +1,11 @@
+.footer__contacts{
+  display: flex;
+  justify-content: space-around;
+}
+
+@media screen and (max-width: 645px) {
+  .footer__contacts{
+    margin: 0 20px 0 20px;
+    justify-content: space-between;
+  }
+  }
