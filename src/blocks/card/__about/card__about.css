@@ -1,4 +1,4 @@
-.card__about{
+.card__about {
   color: black;
   font-style: normal;
   font-weight: 400;
@@ -8,9 +8,15 @@
   align-items: center;
   text-align: center;
   padding: 0 13px 0 13px;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  display: -webkit-box;
+  overflow: hidden;
+  -o-text-overflow: ellipsis;
+  text-overflow: ellipsis;
 }
 @media screen and (max-width: 645px) {
-  .card__about{
+  .card__about {
     font-size: 13px;
     line-height: 18px;
     padding: 0 0px 0 0px;
